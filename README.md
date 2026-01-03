@@ -30,7 +30,7 @@ Try Online: Tinkercad Simulation
 Description: LED blinks only when a button is pressed
 
 Try Online: Tinkercad Simulation
-## https://www.tinkercad.com/things/eY68NaMjFsu-push-button-led-blinking-
+## https://github.com/rameshkale/PRO-TECHNOLOGIA
 
 [Github Link to Project 2]
 ##https://www.tinkercad.com/things/eY68NaMjFsu-push-button-led-blinking-
